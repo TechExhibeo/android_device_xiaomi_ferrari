@@ -31,6 +31,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.*/
 #include <stdio.h>
 #include <unistd.h>
 #include <malloc.h>
+#include <string.h>
 #include <pthread.h>
 #include <dlfcn.h>
 #include <stdlib.h>
