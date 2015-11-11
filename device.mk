@@ -63,6 +63,11 @@ PRODUCT_PACKAGES += \
     init.qcom.wifi.sh \
     qca6234-service.sh
 
+# Adreno driver dependencies
+PRODUCT_PACKAGES += \
+    libboringssl-compat \
+    libstlport
+
 # Audio
 PRODUCT_PACKAGES += \
     audiod \
