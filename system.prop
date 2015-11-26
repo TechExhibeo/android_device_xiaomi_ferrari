@@ -17,7 +17,6 @@ persist.radio.rat_on=combine
 ril.subscription.types=NV,RUIM
 ro.telephony.ril.config=simactivation
 ril.ecclist=000,08,100,101,102,110,112,118,119,120,122,911,999
-ro.telephony.default_network=9,1
 persist.sys.ssr.restart_level=ALL_ENABLE
 persist.sys.ssr.enable_ramdumps=1
 DEVICE_PROVISIONED=1
